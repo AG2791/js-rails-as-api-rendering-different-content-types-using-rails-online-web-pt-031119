@@ -17,4 +17,9 @@ class BirdsController < ApplicationController
   #   render json: { message: 'Hashes of data will get converted to JSON' }
   # end
   
-end
+end 
+
+
+  
+  
+
